@@ -6,7 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "Guillaume Ansanay-Alex - Notes sur la transformation data",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'google', tagId: 'G-TT7D5373CS' },
+    analytics: null,
     baseUrl: "gansanay.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
