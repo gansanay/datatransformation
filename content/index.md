@@ -13,7 +13,7 @@ Ce site est construit comme un [Digital Garden](https://salman.io/notes/digital-
 
 Vous êtes donc libre de partir d'où vous le souhaitez : 
 * d'une recherche par mot-clé dans le champ de recherche,
-* du [[Sommaire des articles Data]] ou du [[Sommaire des articles Retail]]
+* du [[Sommaire des articles Data]]
 * d'un article particulier, en suivant les liens au fur et à mesure. Pourquoi pas [[3 facteurs de succès pour que la data soit utile]] ?
 ## Qui suis-je ?
 
