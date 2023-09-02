@@ -148,7 +148,7 @@ a {
     }
 
     & .sidebar.left {
-      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      left: calc(calc(100vw - $pageWidth) / 2 - $leftSidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -156,7 +156,7 @@ a {
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      right: calc(calc(100vw - $pageWidth) / 2 - $rightSidePanelWidth);
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
