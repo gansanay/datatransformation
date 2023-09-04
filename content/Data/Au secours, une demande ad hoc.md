@@ -1,10 +1,10 @@
 ---
-title: Pourquoi les demandes ad hoc sont mal vues
+title: Au secours, une demande ad hoc
 draft: false
 tags:
-  - stratégie
-  - confiance
-  - impact
+  - "#businessliteracy"
+  - "#dataliteracy"
+  - "#operatingmodel"
 ---
 
 Est-ce que la conversation suivante vous parle ? Est-ce que vous vous reconnaissez dans le rôle d'Eva ou de Tom ?

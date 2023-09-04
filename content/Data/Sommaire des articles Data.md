@@ -5,22 +5,19 @@ draft: false
 
 # 20 Data Office
 ## 21 Stratégie data
-
 ## 22 Organisation
 
 ## 23 Relation business & tech
 
 | Article | Statut |
 |--------|---------|
-| 🇫🇷 [[Pourquoi les demandes ad hoc sont mal vues]]<br>🇺🇸 [[Why ad hoc requests have a bad reputation]] | 🌲 Note |
-| [[Exploiter les demandes ad hoc comme des opportunités de montée en maturité]] | 🪴 Draft |
+| 🇫🇷 [[Au secours, une demande ad hoc]]<br>🇺🇸 [[Please, no ad hoc data requests any more]] | 🌲 Note |
 
 ## Historique de publication des articles
 
 | Date | Article | LinkedIn | Substack |
 |------|--------|----------|-----------|
-| 2023-09-06 | [[Exploiter les demandes ad hoc comme des opportunités de montée en maturité]]| <mark>LinkedIn</mark> | <mark>Substack</mark> |
-| 2023-09-04 | [[Pourquoi les demandes ad hoc sont mal vues]] | <mark>LinkedIn</mark> | <mark>Substack</mark> |
+| 2023-09-04 | 🇫🇷 [[Au secours, une demande ad hoc]]<br>🇺🇸 [[Please, no ad hoc data requests any more]] | <mark>LinkedIn</mark> | <mark>Substack</mark> |
 ## Statuts
 
 | Statut | Description |
