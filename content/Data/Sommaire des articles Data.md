@@ -5,7 +5,6 @@ draft: false
 
 # 20 Data Office
 ## 21 Stratégie data
-
 ## 22 Organisation
 
 ## 23 Relation business & tech
