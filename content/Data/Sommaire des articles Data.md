@@ -2,7 +2,11 @@
 title: Sommaire des articles Data
 draft: false
 ---
+# 10 Meta
 
+| Article | Statut |
+|--------|---------|
+| 🇫🇷 [[Bienvenue]]<br />🇺🇸 [[Welcome]] | 🌲 Note |
 # 20 Data Office
 ## 21 Stratégie data
 ## 22 Organisation
@@ -12,12 +16,13 @@ draft: false
 | Article | Statut |
 |--------|---------|
 | 🇫🇷 Au secours, une demande ad hoc<br>🇺🇸 Please, no ad hoc data requests any more | 🌲 Note |
-
 ## Historique de publication des articles
 
 | Date | Article | LinkedIn | Substack |
 |------|--------|----------|-----------|
-| 2023-09-05 | 🇫🇷 Au secours, une demande ad hoc<br>🇺🇸 Please, no ad hoc data requests any more | <mark>LinkedIn</mark> | <mark>Substack</mark> |
+| 2023-09-05 | 🇫🇷 Anatomie d'une demande ad hoc<br>🇺🇸 Anatomy of an Ad Hoc Request | LinkedIn FR / EN | Substack FR / EN |
+| 2023-09-05 | 🇫🇷 Au secours, une demande ad hoc<br>🇺🇸 Please, no ad hoc data requests any more | LinkedIn FR / EN | Substack FR / EN |
+| 2023-09-04 | 🇫🇷 [[Bienvenue]]<br>🇺🇸 [[Welcome]] | LinkedIn [FR](https://www.linkedin.com/feed/update/urn:li:activity:7104481139657977856/) / [EN](https://www.linkedin.com/feed/update/urn:li:activity:7104461925454856192/) | Substack [FR](https://datapartners.substack.com/p/bienvenue) / [EN](https://datapartners.substack.com/p/welcome) |
 ## Statuts
 
 | Statut | Description |
