@@ -11,13 +11,13 @@ draft: false
 
 | Article | Statut |
 |--------|---------|
-| 🇫🇷 [[Au secours, une demande ad hoc]]<br>🇺🇸 [[Please, no ad hoc data requests any more]] | 🌲 Note |
+| 🇫🇷 Au secours, une demande ad hoc<br>🇺🇸 Please, no ad hoc data requests any more | 🌲 Note |
 
 ## Historique de publication des articles
 
 | Date | Article | LinkedIn | Substack |
 |------|--------|----------|-----------|
-| 2023-09-04 | 🇫🇷 [[Au secours, une demande ad hoc]]<br>🇺🇸 [[Please, no ad hoc data requests any more]] | <mark>LinkedIn</mark> | <mark>Substack</mark> |
+| 2023-09-05 | 🇫🇷 Au secours, une demande ad hoc<br>🇺🇸 Please, no ad hoc data requests any more | <mark>LinkedIn</mark> | <mark>Substack</mark> |
 ## Statuts
 
 | Statut | Description |
