@@ -12,7 +12,7 @@ draft: false
 
 | Article | Statut |
 |--------|---------|
-| 🇫🇷 [[Pourquoi les demandes ad hoc sont mal vues]]<br>🇺🇸 [[Why ad hoc requests have a bad reputation]] | 🌲 Note |
+| 🇫🇷 [[Pourquoi les demandes ad hoc sont mal vues]]<br>🇺🇸 [[Please, no ad hoc data requests any more]] | 🌲 Note |
 | [[Exploiter les demandes ad hoc comme des opportunités de montée en maturité]] | 🪴 Draft |
 
 ## Historique de publication des articles

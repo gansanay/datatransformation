@@ -14,6 +14,10 @@ export default ((opts?: Options) => {
       <footer>
         <hr />
         <p>
+          <a href="https://gansanay.com">Notes on Data Transformation</a> © 2023 by <a href="https://www.linkedin.com/in/gansanay/">Guillaume Ansanay-Alex</a> 
+         </p> 
+        <hr />
+        <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
         <ul>

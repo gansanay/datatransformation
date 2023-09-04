@@ -1,5 +1,6 @@
 ---
 title: Notes sur la transformation data
+date: '2023-09-04'
 ---
 
 ## Où êtes-vous ?
@@ -14,7 +15,7 @@ Ce site est construit comme un [Digital Garden](https://salman.io/notes/digital-
 Vous êtes donc libre de partir d'où vous le souhaitez : 
 * d'une recherche par mot-clé dans le champ de recherche,
 * du [[Sommaire des articles Data]]
-* d'un article particulier, en suivant les liens au fur et à mesure. Pourquoi pas [[3 facteurs de succès pour que la data soit utile]] ?
+* d'un article particulier, en suivant les liens au fur et à mesure.
 ## Qui suis-je ?
 
 <img width=200 align="left" src="../images/ga_profile.jpg" style="margin-top: 0px; margin-right: 10px">Je m'appelle **Guillaume ANSANAY-ALEX**, et j'accompagne depuis 15 ans des transformations data dans des secteurs variés : énergie, bâtiment, distribution alimentaire, luxe.

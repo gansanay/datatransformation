@@ -1,3 +1,12 @@
+---
+title: Anatomy of an Ad Hoc Request
+draft: 
+tags:
+  - businessliteracy
+  - dataliteracy
+  - operatingmodel
+---
+
 *When facing the entirety of an organization's activities, the unexpected is often a daily occurrence. Ad hoc requests can be perceived by technical teams as a threat: unplanned, urgent, often lacking context, they disrupt the planned progress of ongoing projects.*
 
 *In this first article on the subject of ad hoc requests, I explain **why ad hoc queries are underutilized and poorly experienced**, and **how we should reconsider the qualification of requests** to transform them into a space for knowledge transmission and sharing between business and technology.*
