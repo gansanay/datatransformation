@@ -4,7 +4,7 @@ draft: false
 ---
 # 10 Meta
 
-| Article | Statut |
+| Article | Status |
 |--------|---------|
 | 🇫🇷 [[Bienvenue]]<br />🇺🇸 [[Welcome]] | 🌲 Note |
 # 20 Data Office
@@ -13,9 +13,11 @@ draft: false
 
 ## 23 Relation business & tech
 
-| Article | Statut |
+| Article | Status |
 |--------|---------|
 | 🇫🇷 Au secours, une demande ad hoc<br>🇺🇸 Please, no ad hoc data requests any more | 🌲 Note |
+| 🇫🇷 [[Anatomie d'une demande ad hoc]]<br>🇺🇸 Anatomy of an Ad Hoc Request | 🪴 Draft |
+| 🇫🇷 [[Faire des demandes ad hoc une opportunité de montée en maturité]]<br>🇺🇸 Turning Ad Hoc Requests into Maturity Growth Opportunities | 🪴 Draft |
 ## Historique de publication des articles
 
 | Date | Article | LinkedIn | Substack |
@@ -25,12 +27,12 @@ draft: false
 | 2023-09-04 | 🇫🇷 [[Bienvenue]]<br>🇺🇸 [[Welcome]] | LinkedIn [FR](https://www.linkedin.com/feed/update/urn:li:activity:7104481139657977856/) / [EN](https://www.linkedin.com/feed/update/urn:li:activity:7104461925454856192/) | Substack [FR](https://datapartners.substack.com/p/bienvenue) / [EN](https://datapartners.substack.com/p/welcome) |
 ## Statuts
 
-| Statut | Description |
-|--------|-------------|
-| 🌱 Stub | Une note dont seul le titre ou les idées générales ont été posées mais non rédigées |
-| 🪴 Draft | Une note en cours de rédaction avec des bribes de texte en français et en anglais, des copies de contenus... | 
-| 🌲 Note | Une note structurée sous une première forme lisible mais qui peut être amenée à évoluer |
-| 🏞️ Meta | Une note qui s'appuie sur les notes atomiques 
+| Statut | Description FR | Description EN |
+|--------|-------------|----------------|
+| 🌱 Stub | Une note dont seul le titre ou les idées générales ont été posées mais non rédigées | |
+| 🪴 Draft | Une note en cours de rédaction avec des bribes de texte en français et en anglais, des copies de contenus... | | 
+| 🌲 Note | Une note structurée sous une première forme lisible mais qui peut être amenée à évoluer | |
+| 🏞️ Meta | Une note qui s'appuie sur les notes atomiques | |
 
 
 * [A taxonomy of notes (Matt Brockwell)](https://medium.com/@mattbrockwell/a-taxonomy-of-notes-c6fc77aac311), 
