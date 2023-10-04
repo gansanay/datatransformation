@@ -16,7 +16,7 @@ draft: false
 | Article | Status |
 |--------|---------|
 | 🇫🇷 Au secours, une demande ad hoc<br>🇺🇸 Please, no ad hoc data requests any more | 🌲 Note |
-| 🇫🇷 [[Anatomie d'une demande ad hoc]]<br>🇺🇸 Anatomy of an Ad Hoc Request | 🪴 Draft |
+| 🇫🇷 [[Anatomie d'une demande ad hoc]]<br>🇺🇸 [[Anatomy of an Ad Hoc Request]] | 🪴 Draft |
 | 🇫🇷 [[Faire des demandes ad hoc une opportunité de montée en maturité]]<br>🇺🇸 Turning Ad Hoc Requests into Maturity Growth Opportunities | 🪴 Draft |
 ## Historique de publication des articles
 
