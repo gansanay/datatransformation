@@ -18,6 +18,15 @@ draft: false
 | 🇫🇷 Au secours, une demande ad hoc<br>🇺🇸 Please, no ad hoc data requests any more | 🌲 Note |
 | 🇫🇷 [[Anatomie d'une demande ad hoc]]<br>🇺🇸 [[Anatomy of an Ad Hoc Request]] | 🪴 Draft |
 | 🇫🇷 [[Faire des demandes ad hoc une opportunité de montée en maturité]]<br>🇺🇸 Turning Ad Hoc Requests into Maturity Growth Opportunities | 🪴 Draft |
+
+# 50 Business & Data Fails
+
+| Article | Statut |
+|--------|---------|
+| [[Business & Data Fail - The Little Pink Skirt]] | 🪴 Draft  |
+| [[Business & Data Fail - Où sont mes points de vente]] | 🪴 Draft  |
+| [[Business & Data Discovery - Bienvenue chez Picard !]] | 🪴 Draft  |
+
 ## Historique de publication des articles
 
 | Date | Article | LinkedIn | Substack |
