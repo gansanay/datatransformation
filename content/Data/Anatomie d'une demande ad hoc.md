@@ -16,7 +16,7 @@ Ensuite, deux facteurs positifs viennent de la volonté de nos deux interlocuteu
 
 * Tom se sent mieux parce qu'il voit qu'Eva a, ou a pris, des réflexes analytiques, et possède une forme de **data literacy**. Ce qui ne veut pas nécessairement dire qu'elle a appris à écrire des requêtes SQL ! Mais elle sait que pour être archivées, maintenues, et exploitées à grande échelle, les données sont d'abord modélisées de manière normalisée, pour ensuite se prêter à des agrégations qui diffèrent suivant les contextes. Et elle sait donc suffisamment se mettre à la place de Tom pour deviner la complexité de ce qu'elle demande.
 
-Mais Eva et Tom ont également la chance d'être soutenus par des fondations mises à leur disposition et qui sont là encore le fruit d'un travail entre métier et technique :
+Eva et Tom ont également la chance d'être soutenus par des fondations mises à leur disposition et qui sont là encore le fruit d'un travail entre métier et technique :
 
 * Une **documentation partagée** où les processus et métriques sont détaillés.
 
@@ -48,13 +48,6 @@ Mais si le ticketing est en effet bien adapté aux demandes de support, il ne l'
 En adoptant un mode de recueil des demandes plus ouvert, beaucoup de questions seront posées au début, mais à mesure que les demandes se répéteront, chacun en connaîtra plus sur le domaine de l'autre, et il n'est pas difficile de parier que rapidement beaucoup de difficultés seront naturellement levées.
 
 Mais cela n'exclut pas la mise en place d'un suivi en interne des demandes, par l'équipe data, pour pouvoir mesurer la charge de demandes ad hoc et son évolution, sa répartition par équipe demandeuse et par thématique, les typologies de demandes... Au contraire, ce sera un outil de valeur pour  [[Faire des demandes ad hoc une opportunité de montée en maturité]], le sujet du prochain article !
-## "N'est-ce pas le travail du (Proxy) Product Owner / Manager ?"
-
-Dans le cadre d'un besoin qui dépasserait une certaine taille critique et correspondrait à un besoin récurrent, on passerait sur une notion de produit. On irait bien évidemment identifier, entre autres, un rôle aguerri à l'exercice de la maïeutique et capable d'empathie à la fois métier et technique.
-
-Certaines demandes ad hoc peuvent s'apparenter à des prémices de produit, c'est pourquoi il est important, via cette double transmission de *literacy* entre les équipes, de les documenter et capitaliser pour le cas où la demande apparaîtrait récurrente. 
-
-Rien n'empêche, cela dit, de distinguer dans le cadre des demandes ad hoc des profils **plutôt** solutionneurs et d'autres **plutôt** développeurs, ce qui est aussi un moyen de faire évoluer au mieux chaque collaborateur en fonction de sa maturité et de sa personnalité.
 
 ## Et le self service ? Ne serait-il pas plus simple de laisser les utilisateurs accéder eux-mêmes aux données ?
 
@@ -64,13 +57,3 @@ Selon moi, pour faire court, les deux ne s'opposent pas mais se complètent. J'y
 Une équipe data devrait toujours être perçue comme disponible pour traiter des requêtes ad hoc... mais faire en sorte de ne pas se retrouver en surcharge !
 
 Comme évoqué plus haut, dans le prochain article [[Faire des demandes ad hoc une opportunité de montée en maturité]], je proposerai une manière de distinguer les demandes pour mieux les valoriser et faire entrer l'effort correspondant dans des projets plus faciles à planifier.
-
-
-
----
-
-
-Entre le métier et la technique, chacun ne connaît généralement qu'une partie de la réalité :
-* **le métier sait quel est son problème**, mais ne sait pas exactement quelles données sont disponibles et sous quelles contraintes. Il ne sait pas non plus toujours formuler quelles sont les hypothèses sous-jacentes à sa question, dont la technique a besoin pour lui répondre
-* **la technique sait quelles données sont disponibles** et comment elles sont organisées mais ne connaît pas forcément assez le sujet métier pour être capable de faire le lien avec une autre requête précédente, pour remplir ou proposer les hypothèses manquantes dans la demande
-## L'absence de partage de connaissances aboutit à une perte de confiance et de valeur

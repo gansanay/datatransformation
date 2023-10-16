@@ -40,15 +40,9 @@ While ticketing is indeed well-suited for support requests, it is not at all sui
 
 However, this doesn't exclude the implementation of internal tracking of requests by the data team to measure the burden of ad hoc requests and its evolution, distribution by requesting team and theme, request typologies... On the contrary, it will be a valuable tool for *Turning Ad Hoc Requests into Opportunities*, the subject of the next article!
 
-## "Isn't this the job of the (Proxy) Product Owner/Manager?"
-
-In the case of a need that exceeds a certain critical size and corresponds to a recurring need, it would shift to a product mindset. Among other things, an experienced role that combines business and technical empathy would be identified.
-
-Some ad hoc requests may resemble the beginnings of a product, which is why it is important, through this dual transmission of _literacy_ between teams, to document them and capitalize on them in case the request becomes recurring.
-
-However, it's worth distinguishing, in the context of ad hoc requests, profiles that are **more** solution-oriented and others that are **more** developer-oriented, which is also a way to help each team member evolve according to their maturity and personality.
-
 ## What about self-service? Wouldn't it be simpler to let users access data themselves?
+
+Tough question. Self service does not fit everyone’s needs and is not something you just enable by opening access rights.
 
 In my opinion, in short, the two are not mutually exclusive but complement each other. I will delve into this in more detail in upcoming articles.
 
@@ -56,4 +50,4 @@ In my opinion, in short, the two are not mutually exclusive but complement each 
 
 A data team should always be seen as available to handle ad hoc queries... while ensuring they don't get overwhelmed!
 
-As mentioned earlier, in the next article, *Turning Ad Hoc Requests into Opportunities*, I will propose a way to distinguish requests to better prioritize them and incorporate the corresponding effort into more easily planable projects.
+As mentioned earlier, in the next article, [[Turning Ad Hoc Requests into Opportunities]], I will propose a way to distinguish requests to better prioritize them and incorporate the corresponding effort into more easily plannable projects.
