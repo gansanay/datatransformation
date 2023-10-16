@@ -18,7 +18,7 @@ Dans de nombreuses situations, une demande *ad hoc* peut être rapprochée de si
 
 Le dessin qui suit distingue quatre quadrants en fonction de la récurrence et de la complexité des demandes :
 
-<center><figure><img src="../images/20230828_adhoc_requests.png" style="margin-bottom: 0px"><figcaption style="margin-top: 0px"><em>Bien qualifiées, beaucoup de demandes</em> ad hoc <em>se traduisent en des opportunités à saisir.</em></figcaption></figure></center>
+<center><figure><img src="../images/20231016_adhoc_requests.png" style="margin-bottom: 0px"><figcaption style="margin-top: 0px"><em>Bien qualifiées, beaucoup de demandes</em> ad hoc <em>se traduisent en des opportunités à saisir.</em></figcaption></figure></center>
 
 ## Les requêtes complexes sont des indicateurs de confiance et de rôle important de la data
 
