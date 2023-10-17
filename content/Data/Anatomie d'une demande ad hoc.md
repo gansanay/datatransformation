@@ -47,7 +47,7 @@ Mais si le ticketing est en effet bien adapté aux demandes de support, il ne l'
 
 En adoptant un mode de recueil des demandes plus ouvert, beaucoup de questions seront posées au début, mais à mesure que les demandes se répéteront, chacun en connaîtra plus sur le domaine de l'autre, et il n'est pas difficile de parier que rapidement beaucoup de difficultés seront naturellement levées.
 
-Mais cela n'exclut pas la mise en place d'un suivi en interne des demandes, par l'équipe data, pour pouvoir mesurer la charge de demandes ad hoc et son évolution, sa répartition par équipe demandeuse et par thématique, les typologies de demandes... Au contraire, ce sera un outil de valeur pour  [[Faire des demandes ad hoc une opportunité de montée en maturité]], le sujet du prochain article !
+Mais cela n'exclut pas la mise en place d'un suivi en interne des demandes, par l'équipe data, pour pouvoir mesurer la charge de demandes ad hoc et son évolution, sa répartition par équipe demandeuse et par thématique, les typologies de demandes... Au contraire, ce sera un outil de valeur pour  [[Demandes ad hoc, de goulet d'étranglement à business partner]], le sujet du prochain article !
 
 ## Et le self service ? Ne serait-il pas plus simple de laisser les utilisateurs accéder eux-mêmes aux données ?
 
@@ -56,4 +56,4 @@ Selon moi, pour faire court, les deux ne s'opposent pas mais se complètent. J'y
 
 Une équipe data devrait toujours être perçue comme disponible pour traiter des requêtes ad hoc... mais faire en sorte de ne pas se retrouver en surcharge !
 
-Comme évoqué plus haut, dans le prochain article [[Faire des demandes ad hoc une opportunité de montée en maturité]], je proposerai une manière de distinguer les demandes pour mieux les valoriser et faire entrer l'effort correspondant dans des projets plus faciles à planifier.
+Comme évoqué plus haut, dans le prochain article [[Demandes ad hoc, de goulet d'étranglement à business partner]], je proposerai une manière de distinguer les demandes pour mieux les valoriser et faire entrer l'effort correspondant dans des projets plus faciles à planifier.

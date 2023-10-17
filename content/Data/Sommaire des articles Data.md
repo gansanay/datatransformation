@@ -17,7 +17,7 @@ draft: false
 |--------|---------|
 | 🇫🇷 [[Au secours, une demande ad hoc]]<br>🇺🇸 [[Please, no ad hoc data requests any more]] | 🌲 Note |
 | 🇫🇷 [[Anatomie d'une demande ad hoc]]<br>🇺🇸 [[Anatomy of an Ad Hoc Request]] | 🌲 Note |
-| 🇫🇷 [[Faire des demandes ad hoc une opportunité de montée en maturité]]<br>🇺🇸 Turning Ad Hoc Requests into Maturity Growth Opportunities | 🪴 Draft |
+| 🇫🇷 [[Demandes ad hoc, de goulet d'étranglement à business partner]]<br>🇺🇸 [[Ad Hoc Requests, From Bottleneck to Business Partner]] | 🪴 Draft |
 
 # 50 Business & Data Case Studies
 
