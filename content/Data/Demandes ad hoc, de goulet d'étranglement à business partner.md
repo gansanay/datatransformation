@@ -11,6 +11,8 @@ Avez-vous remarqué que :
 
 Face à ça, je trouve que l'on dégaine beaucoup (trop) le self-service comme une solution miracle, pour "sortir des demandes ad hoc et enfin faire des cas d'usage avancés". Comme si on ne voulait plus entendre parler du métier tant qu'il s'agit de l'opérationnel, du quotidien, et se consacrer à son grand oeuvre, le fameux *use case* qui serait hors de portée des métiers sans la data.
 
+<h2><em>Si on ne commence pas par coller au plus près des opérations et du quotidien du métier, on fait fausse route.</em></h2>
+
 Selon moi, c'est faire gravement fausse route. Je passe mon temps à le dire à qui veut bien l'entendre : si on ne commence pas par coller au plus près des opérations et du quotidien du métier, aussi difficile que cela puisse paraître, on fait fausse route.
 
 Ce qui ne veut pas dire que le self service n'est pas à la fois utile et nécessaire au métier - mais pas systématiquement.
@@ -48,7 +50,9 @@ Exemple : *préconiser l'assortiment ou le niveau tarifaire d'un nouveau point d
 
 Exemple : *découvrir les causes d'une tendance baissière, déterminer si elle est structurelle ou conjoncturelle, et les facteurs d'exposition à cette tendance*
 
-Une remarque en passant : équipes data, si vous recevez des demandes complexes commes les deux dernières, réjouissez-vous ! Ce genre de questions est le signe d'une confiance du métier dans son équipe data, à vous d'être à la hauteur !
+<h2><em>Si vous recevez des demandes complexes, réjouissez-vous ! C'est un signe de confiance du métier.</em></h2>
+
+Une remarque en passant : équipes data, si vous recevez des demandes complexes comme les deux dernières, réjouissez-vous ! Ce genre de questions est le signe d'une confiance du métier dans son équipe data, à vous d'être à la hauteur !
 
 # Pour sortir la tête de l'eau : mutualiser
 
@@ -57,7 +61,7 @@ Disons que vous prenez la direction d'une équipe data qui est sous l'eau : les 
 Comment est-ce qu'on se sort de là ? Il n'y a pas une réponse unique, et toutes les situations seront différentes.
 
 * Inutile de faire l'autruche
-* Inutile de demander des ressources supplémentaires
+* Inutile de demander des ressources supplémentaires à ce stade, ce n'est pas audible
 * Inutile d'ouvrir les accès à toutes les données brutes pour déclarer le self-service ouvert, puis de se consacrer à un use case d'IA hors sol. Un esprit sensé devrait vous arrêter avant.
 
 La solution est itérative, via un travail progressif alternant création de valeur et consolidation de votre plateforme data :
@@ -87,7 +91,7 @@ A l'issue de cette phase, les premiers éléments de démonstration d'une offre 
 
 Au cours de cette étape, d'autant plus que l'on va commencer à utiliser plus de compute et de services web, on devrait commencer à poser les bases en termes de monitoring, d'observabilité, aussi bien du point de vue du maintien en service que des coûts : bonnes pratiques, optimisation des requêtes, stratégie de tests raisonnée mais suffisante. Si les web apps embarquent du machine learning, là encore il faudra poser les bases de la gestion et du suivi des modèles : monitoring des indicateurs, ré-entraînement...
 
-Cette valeur apportée va permettre de justifier un passage à une équipe un peu plus conséquente, qui va commencer à se spécialiser pour offrir et maintenir ces différents services à plus grande échelle.
+Cette valeur apportée va permettre de justifier un passage à une équipe un peu plus conséquente, qui va commencer à se spécialiser pour offrir et maintenir ces différents services à plus grande échelle. A ce moment-là, capables de démontrer cette valeur et cette vision, vous avez plus de chances d'être entendus.
 ## Phase 2 : passage à l'échelle
 
 L'offre devenant plus large, l'exposition va devenir plus large, les attentes plus fortes... mais aussi l'impact !
